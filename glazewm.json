@@ -1,7 +1,7 @@
 {
   "name": "GlazeWM",
   "id": "glazewm",
-  "url": "https://github.com/glzr-io/glazewm/releases/download/v3.8.1/standalone-glazewm-v3.8.1-x64.msi",
+  "url": "https://github.com/glzr-io/glazewm/releases/download/v3.8.1/glazewm-v3.8.1.exe",
   "type": "exe",
   "silent": "/S"
 }
