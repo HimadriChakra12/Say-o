@@ -1,7 +1,8 @@
 {
   "name": "Windows Powershell",
-  "id": "powershell7",
+  "id": "powershell",
   "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.5.1/PowerShell-7.5.1-win-x64.msi",
+  "version": "7.5.1",
   "type": "msi",
   "silent": "/qn"
 }
