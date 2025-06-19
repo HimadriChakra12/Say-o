@@ -1,8 +1,0 @@
-{
-  "name": "Sumatra PDF",
-  "id": "sumatrapdf",
-  "url": "https://files2.sumatrapdfreader.org/software/sumatrapdf/rel/3.5.2/SumatraPDF-3.5.2-64-install.exe",
-  "version": "3.5.2",
-  "type": "exe",
-  "silent": "/S"
-}
