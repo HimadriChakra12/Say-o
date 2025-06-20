@@ -1,7 +1,7 @@
 {
   "name": "Obsidian",
   "id": "obsidian",
-  "url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/262342594/d02f7f82-28c7-4af0-8568-06149785b05c?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250620%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250620T090926Z&X-Amz-Expires=300&X-Amz-Signature=8e3f3b57fd8dc7aef26b874796e4afdfc0a5dbedfbd419a6614c4264378f1d84&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DObsidian-1.8.10.exe",
+  "url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.10/Obsidian-1.8.10.exe",
   "version": "1.8.10",
   "type": "exe",
   "silent": "/S"
