@@ -1,0 +1,8 @@
+{
+  "name": "Microsoft Powertoys",
+  "id": "powertoys",
+  "url": "https://mirror.del.albony.in/videolan-ftp/vlc/3.0.21/win64/vlc-3.0.21-win64.exe",
+  "version": "0.91.1",
+  "type": "exe",
+  "silent": "/quiet /norestart"
+}
