@@ -1,6 +1,6 @@
 {
   "name": "Python 3",
-  "id": "python",
+  "id": "python3",
   "url": "https://www.python.org/ftp/python/3.13.5/python-3.13.5.exe",
   "version": "3.13.5",
   "type": "exe",
