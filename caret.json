@@ -2,6 +2,10 @@
   "name": "Caret",
   "id": "caret",
   "version": "3.4.6",
-  "url": "https://example.com/file.exe",
-  "type": "zip"
+  "url": "https://github.com/careteditor/releases/releases/download/3.4.6/CaretSetup.exe",
+  "type": "exe",
+  "installer": "nsis",
+  "silent": "/S",
+  "uninstaller": "C:\\Program Files\\pkg\\unins000.exe",
+  "untype": "nsis"
 }

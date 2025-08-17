@@ -3,7 +3,5 @@
   "id": "musikcube",
   "version": "3.0.4",
   "url": "https://github.com/clangen/musikcube/releases/download/3.0.4/musikcube_3.0.4_win64.zip",
-  "type": "zip",
-  "installer": "",
-  "silent": ""
+  "type": "zip"
 }

@@ -3,7 +3,5 @@
   "id": "7tsp",
   "version": "0.6",
   "url": "https://github.com/ScoopInstaller/Binary/raw/master/7tsp/7TSP-GUI-v0_6.zip",
-  "type": "zip",
-  "installer": "",
-  "silent": ""
+  "type": "zip"
 }
