@@ -1,0 +1,9 @@
+{
+  "name": "Avro Keyboard",
+  "id": "avro",
+  "version": "1.0.0",
+  "url": "https://www.omicronlab.com/download/portable_avrokeyboard_5.6.0.exe",
+  "type": "exe",
+  "installer": "nsis",
+  "silent": "/S"
+}
