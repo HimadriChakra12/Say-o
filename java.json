@@ -1,8 +1,9 @@
 {
-  "name": "Java8",
+  "name": "jdk",
   "id": "java",
-  "url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=252043_8a1589aa0fe24566b4337beee47c2d29",
-  "version": "8.0.4510.10",
-  "type": "exe",
-  "silent": "/s REBOOT=0"
+  "url": "https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.msi",
+  "version": "25",
+  "type": "msi",
+  "installer": "msi",
+  "silent": ""
 }
